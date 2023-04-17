@@ -1,0 +1,55 @@
+Projects:
+devm-server -devmigiapp
+pass - 1gnLJMfw[u}R
+------------------------------------
+------------------------------------
+Health hoodlum
+User: devmigiapp_health
+Database: devmigiapp_healthhoodlum
+Pass = yo!NsH&X[ei&
+**********************
+Password: uP2Z=ZOB_N$J
+FTP Username: health@devm.igiapp.com
+FTP server: dev.igiapp.com
+FTP & explicit FTPS port:  21
+**********************
+cpanel::
+Pass = tiaQXUOW$Yyb
+user = devmigiapp
+-------------------------------------
+-------------------------------------
+
+LifeInnovations
+Pass: 4zsmZ}Rg^%K6
+User: devmigiapp_lifeinnovations
+Database: devmigiapp_lifeinnovations
+********
+FTP-----
+Pass - &[R&N@_r)h.Q
+FTP Username: lifeinnovations@devm.igiapp.com
+FTP server: ftp.devm.igiapp.com
+FTP & explicit FTPS port:  21
+
+---------------------------------------
+---------------------------------------
+Art360
+
+Password: bUT4HSYv+J$)
+User: devmigiapp_art360
+Database: devmigiapp_art360
+
+----------------------------------------
+----------------------------------------
+Dotcsa
+
+db_pass = 5l;TBX[Z7oE@
+User: devmigiapp_dotcsa
+Database: devmigiapp_dotcsa
+
+-----------------------------------------
+-----------------------------------------
+seotools
+passsword = JGaC(q;}xg0o
+User: devmigiapp_seotools
+Database: devmigiapp_seotools
+
